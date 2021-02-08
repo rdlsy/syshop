@@ -123,8 +123,10 @@ export const Item = styled.a`
   display: flex;
   align-items: center;
   justify-content: center;
+  width: 56px;
+  height: 56px;
   margin-left: 1.2rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   cursor: pointer;
   @media ${props => props.theme.tablet} {
     margin-left: 0;
