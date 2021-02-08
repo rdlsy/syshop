@@ -123,7 +123,7 @@ const GlobalStyle = createGlobalStyle`
       width: 300px;
       height: 300px;
       border-radius: 50%;
-      background: url('/sylog/error.jpeg') no-repeat center;
+      background: url('/syshop/error.jpeg') no-repeat center;
       background-size: 410px;
     }
     @media ${props => props.theme.tablet} {
