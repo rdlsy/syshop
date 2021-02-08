@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/syshop/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/syshop/static/js/main.f3cebc4b.chunk.js",
-    "main.js.map": "/syshop/static/js/main.f3cebc4b.chunk.js.map",
+    "main.js": "/syshop/static/js/main.6ab3dd68.chunk.js",
+    "main.js.map": "/syshop/static/js/main.6ab3dd68.chunk.js.map",
     "runtime-main.js": "/syshop/static/js/runtime-main.3a3e57a3.js",
     "runtime-main.js.map": "/syshop/static/js/runtime-main.3a3e57a3.js.map",
     "static/js/2.fd5baead.chunk.js": "/syshop/static/js/2.fd5baead.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3a3e57a3.js",
     "static/js/2.fd5baead.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.f3cebc4b.chunk.js"
+    "static/js/main.6ab3dd68.chunk.js"
   ]
 }
