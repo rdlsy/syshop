@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/syshop/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/syshop/static/js/main.d448619b.chunk.js",
+    "main.js.map": "/syshop/static/js/main.d448619b.chunk.js.map",
+    "runtime-main.js": "/syshop/static/js/runtime-main.f29f0167.js",
+    "runtime-main.js.map": "/syshop/static/js/runtime-main.f29f0167.js.map",
+    "static/js/2.aa56ad00.chunk.js": "/syshop/static/js/2.aa56ad00.chunk.js",
+    "static/js/2.aa56ad00.chunk.js.map": "/syshop/static/js/2.aa56ad00.chunk.js.map",
+    "static/js/3.a38afc90.chunk.js": "/syshop/static/js/3.a38afc90.chunk.js",
+    "static/js/3.a38afc90.chunk.js.map": "/syshop/static/js/3.a38afc90.chunk.js.map",
+    "index.html": "/syshop/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/syshop/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.aa56ad00.chunk.js.LICENSE.txt": "/syshop/static/js/2.aa56ad00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f29f0167.js",
+    "static/js/2.aa56ad00.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.d448619b.chunk.js"
+  ]
+}
