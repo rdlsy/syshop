@@ -1,7 +1,7 @@
 # SYSHOP
 
 ### 기술 스택
-React, redux, redux-thunk, axios, react-router, styled-components
+React, redux, redux-thunk, redux-persist, axios, react-router, styled-components
 
 
 
