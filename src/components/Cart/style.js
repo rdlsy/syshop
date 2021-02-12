@@ -95,7 +95,7 @@ export const Options = styled.div`
       line-height: 35px;
       border-color: #c2b7bb;
       border-radius: 3px;
-      background: url('/sylog/arrow.png') no-repeat right 8px center;
+      background: url('/syshop/arrow.png') no-repeat right 8px center;
       background-size: 18%;
       appearance: none;
       text-indent: 12px;
